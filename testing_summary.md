@@ -1,0 +1,3 @@
+### Task 2 Summary (150 words)
+
+By automating login tests with Selenium, we rapidly validate multiple scenarios (valid/invalid credentials) without human error or fatigue. AI enhancements (e.g., self-healing selectors in Testim.io) further boost coverage by adapting to page changes, catching more edge cases, and improving reliability. Compared to manual testing, the AI-powered framework finds issues faster and scales across browsers and OS without repetitive effort.

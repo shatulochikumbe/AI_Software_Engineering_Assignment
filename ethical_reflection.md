@@ -1,0 +1,3 @@
+### Ethical Reflection
+
+Deploying predictive resource models can inherit dataset biases, e.g., over- or under-represented teams, skewing priority predictions and resource allocations. These biases reduce fairness and could disadvantage certain groups. IBM AI Fairness 360 enables bias detection and mitigation using various metrics (e.g., disparate impact) and algorithms (re-weighting, adversarial debiasing), helping teams create more equitable models and transparent processes.
